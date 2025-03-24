@@ -1,0 +1,7 @@
+{ 
+   first_name:"Joseph",
+   last_name:"Xean",
+   email:"maxwin@example.com",
+   phone_number:"09632887775",
+   address:"0963288776"
+}
